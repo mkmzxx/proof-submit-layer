@@ -87,8 +87,8 @@ async function run() {
         log.error(`Error Processing wallet:`, error.message);
       }
     }
-    log.warn(`All Wallets have been processed, waiting 20 hours before next run...`);
-    await delay(20 * 60 * 60);
+    log.warn(`All Wallets have been processed, waiting 1 hours before next run...`);
+    await delay(1 * 60 * 60);
   }
 }
 
