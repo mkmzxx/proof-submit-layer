@@ -53,7 +53,7 @@ format `[
     ```sh
     node main.js
 
-config.js
+
 
 5. Auto Referral / `open config.js` and past your raf cod:
     ```sh
