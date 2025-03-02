@@ -21,8 +21,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/mkmzxx/proof-submit-layer/tree/main
-    cd proof-submit-l
+    git clone https://github.com/mkmzxx/proof-submit-layer
+    cd proof-submit-layer
     ```
 
 2. Install the required dependencies:
