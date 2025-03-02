@@ -53,9 +53,14 @@ format `[
     ```sh
     node main.js
 
+config.js
 
+5. Auto Referral / `open config.js` and past your raf cod:
+    ```sh
+   nano config.js
+    ```
 
-4. Auto Referral / create new wallets
+5. Auto Referral / create new wallets
     ```sh
     node autoref.js
     ```
