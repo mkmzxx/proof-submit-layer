@@ -21,7 +21,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/mkmzxx/proof-submit-l
+    git clone https://github.com/mkmzxx/proof-submit-layer/tree/main
     cd proof-submit-l
     ```
 
